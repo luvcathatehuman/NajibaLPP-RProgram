@@ -1,0 +1,16 @@
+data_pasien: dataset awal pasien.
+
+rata2_bmi_per_kelamin: hasil rata-rata BMI berdasarkan jenis kelamin.
+
+meta_data: data dummy untuk meta-analisis.
+
+efek_meta: hasil perhitungan efek dan varians antar studi.
+
+hasil_meta: hasil meta-analisis menggunakan rma().
+
+nma_data: data dummy untuk network meta-analysis.
+
+pairwise_data: konversi data NMA ke format pairwise.
+
+hasil_nma: hasil NMA menggunakan netmeta().
+
